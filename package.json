@@ -1,6 +1,6 @@
 {
   "name": "html-fns",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Set of convinient pure functions to generate HTML on server-side  via tagged template literals.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/PazzaVlad/html-fns.git"
   },
+  "type": "module",
   "keywords": [
     "string",
     "tag",
@@ -22,7 +23,5 @@
   ],
   "author": "Vlad Harb",
   "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.15"
-  }
+  "dependencies": {}
 }
